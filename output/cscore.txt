@@ -1,0 +1,8 @@
+1 : Demander si y a des personnes dans le vehicule
+60
+2 : regarder si il a du sang sur lui ou dans la bouche.
+60
+1 : Vérifier si la personne respire
+70
+1 : aller vous occupez du passager le temps que le conducteur revienne a lui.
+80
